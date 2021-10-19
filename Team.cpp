@@ -1,6 +1,10 @@
 //Bismillahir rahmanir rahim
 //Arman Hossain C193033
 //Programming is nothing but an addiction.
+
+//  http://codeforces.com/contest/231/problem/A
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
